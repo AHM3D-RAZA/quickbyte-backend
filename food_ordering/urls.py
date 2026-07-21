@@ -42,7 +42,7 @@ schema_view = get_schema_view(
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
-    url="https://web-production-2c198.up.railway.app",
+    # url="https://web-production-2c198.up.railway.app",
     authentication_classes=[JWTAuthentication],
 )
 
