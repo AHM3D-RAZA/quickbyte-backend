@@ -31,7 +31,7 @@ class BothHttpAndHttpsSchemaGenerator(OpenAPISchemaGenerator):
         return schema
 
 
-schema_view = get_schema_view(        # ✅ only one schema_view
+schema_view = get_schema_view(
     openapi.Info(
         title="Food Ordering APIs",
         default_version='v1',
@@ -42,7 +42,7 @@ schema_view = get_schema_view(        # ✅ only one schema_view
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
-    generator_class=BothHttpAndHttpsSchemaGenerator,
+    url="https://web-production-2c198.up.railway.app",
     authentication_classes=[JWTAuthentication],
 )
 
