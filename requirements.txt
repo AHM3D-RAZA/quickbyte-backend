@@ -1,0 +1,15 @@
+django
+djangorestframework 
+djangorestframework-simplejwt 
+pillow
+django-cors-headers
+python-dotenv
+drf-yasg
+<<<<<<< HEAD
+dj-database-url
+=======
+whitenoise
+dj-database-url
+psycopg2-binary
+gunicorn
+>>>>>>> 11b5d7e6377b0627408f13faea47e3b19849052e

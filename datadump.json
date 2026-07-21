@@ -1,0 +1,3748 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "3wl5byr02rudah815lm0mc3rn9clpnm8",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWygIevfcNBBaQqqFJaU_GvxuSHvQ6M5k38-HYqz963vyS2JWBYJdfGAM9cxsmPUK7r5zWtm9L5CPhp-18XlN-3c72b1BDr-PrbME4QbFOS1UANDpFErI0DqPMYFHoKSJFi1pbpQSQ0cmQykTBEft8AdHINyI:1wjBN5:TTAIL1voOyZrXd8JaKBycH6MGBzIggo6qndWMPHJG8s",
+    "expire_date": "2026-07-27T07:46:35.584Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "9afz9o0z6t5vjplwg6ebh143funmsp28",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWygIevfcNBBaQqqFJaU_GvxuSHvQ6M5k38-HYqz963vyS2JWBYJdfGAM9cxsmPUK7r5zWtm9L5CPhp-18XlN-3c72b1BDr-PrbME4QbFOS1UANDpFErI0DqPMYFHoKSJFi1pbpQSQ0cmQykTBEft8AdHINyI:1wj8Za:8Cr_IUeEy1Ux7QQk5yYw6b8Zt8xN0fy3YWBlHMY3QNo",
+    "expire_date": "2026-07-27T04:47:18.796Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "d3wpeadztn9i2bjo3ddd29997dhtch3i",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWygIevfcNBBaQqqFJaU_GvxuSHvQ6M5k38-HYqz963vyS2JWBYJdfGAM9cxsmPUK7r5zWtm9L5CPhp-18XlN-3c72b1BDr-PrbME4QbFOS1UANDpFErI0DqPMYFHoKSJFi1pbpQSQ0cmQykTBEft8AdHINyI:1wi3jw:4ilghpz_EGuFB6lYtQLq3FPa5JEaE7rplSe8VkGgIYU",
+    "expire_date": "2026-07-24T05:25:32.681Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "f1po3l38qhvfxn6lckaek6g8kpwrzs10",
+  "fields": {
+    "session_data": ".eJxVjDsOgzAQBe_iOrJsrwGTMj1nsNb7CSQRSBiqKHePkCiS9s3Me5uM-zbmvcqaJzZX4525_I4F6SnzQfiB832xtMzbOhV7KPak1Q4Ly-t2un8HI9bxqMUBkDJ5pgYCROpbIfaNug7BaaclaiCRqMH5PiH40KaQUmJCF9R8viX9OIU:1wkF1p:JcKfj99A-UULiD0dj1wAM_Ni8Vmx11xjLyii28nS46A",
+    "expire_date": "2026-07-30T05:53:01.515Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "p09nglyt8mscuhgawu5fp7aifumktj7d",
+  "fields": {
+    "session_data": ".eJxVjDsOgzAQBe_iOrJsrwGTMj1nsNb7CSQRSBiqKHePkCiS9s3Me5uM-zbmvcqaJzZX4525_I4F6SnzQfiB832xtMzbOhV7KPak1Q4Ly-t2un8HI9bxqMUBkDJ5pgYCROpbIfaNug7BaaclaiCRqMH5PiH40KaQUmJCF9R8viX9OIU:1wju3E:6PUc3dxq5SSamf-sIY-Ep-plxrmQyFcUhVOHhqCfuYI",
+    "expire_date": "2026-07-29T07:29:04.343Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "snlex501xmvufvfpg0hxem3d1xrdwsfp",
+  "fields": {
+    "session_data": ".eJxVjDkOwjAQAP-yNbLiKw4p6fMGa-3dxQFkSzkqxN9RpBTQzozmDRH3rcR95SXOBCPoDi6_MGF-cj0MPbDem8qtbsuc1JGo065qasSv29n-DQquBUYQ1uhNIs9ihpSRNFoT-nwVL1qziLODk8TYIToOTJzJe3HBUedNb-HzBUcZOXo:1wjaAw:fdnuni0IHCXMkityybydNhAYEqnL5yG3UB-dr0H79po",
+    "expire_date": "2026-07-28T10:15:42.477Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vbwaibq70e3io0k8097dtk9ugo8db23h",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEd3rh07zeQAQapGkhKuzL-uzbpQrf3nHNfLOC21rANWsKc2ZkpdvrdIqYHtR3kO7Zb56m3dZkj3xV-0MGvPdPzcrh_BxVH_dbOTGgKReGTnbI10Tkhc5EWvCJnvLSobfIEQhkQxUtEC6A1aRDJ5cLeH85jNy4:1wemt1:OahmVBBQx2dA3sc3V2N-lU_rY2R7RPZoDtmOwLUg8zU",
+    "expire_date": "2026-07-15T04:49:23.612Z"
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$ZU9uFmYzqivs7aKM4uqnVp$SHA6nw3abodTusu8pJTBHNuDj4vSw81acwyhhkMfe3c=",
+    "last_login": "2026-07-01T04:49:23.600Z",
+    "is_superuser": true,
+    "username": "Admin",
+    "email": "admin2@gmail.com",
+    "city": null,
+    "country": null,
+    "created_at": "2026-07-01T04:48:57.602Z",
+    "updated_at": "2026-07-01T04:48:57.602Z",
+    "is_active": true,
+    "is_admin": true,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$lsL1GsmWV3PJa5SDff5xeh$8Be8MtvXXeufcwCZ5WmsaAbTIzYEYTpmKAlGv7SVLU0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Test1",
+    "email": "test@gmail.com",
+    "city": "Boston",
+    "country": "USA",
+    "created_at": "2026-07-01T05:28:39.114Z",
+    "updated_at": "2026-07-01T05:28:39.156Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$KR5wtvzjpEUHBU55LAWhyX$PXVHDTY2abR+dedjwOhDuaBDDoTcYg3215nYhpvOGFs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Test1",
+    "email": "test1@gmail.com",
+    "city": "Boston",
+    "country": "USA",
+    "created_at": "2026-07-01T05:44:20.267Z",
+    "updated_at": "2026-07-01T05:44:20.311Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$ZV6uDdF3yAYJ6gLx1jVP8s$+ShySxFnR+iIbB+/vDfLPOtZ7RfSZE87WWms7I9kUew=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "string",
+    "email": "abc@example.com",
+    "city": "string",
+    "country": "string",
+    "created_at": "2026-07-07T10:09:35.212Z",
+    "updated_at": "2026-07-07T10:09:35.212Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$HrYnAJXyYWzOeHka9akmPw$VBfgGB7BphdtpXYbtstR/nonO+KxlYs7/n3wwqrKGDw=",
+    "last_login": "2026-07-16T05:53:01.507Z",
+    "is_superuser": true,
+    "username": "Khan",
+    "email": "khan@gmail.com",
+    "city": null,
+    "country": null,
+    "created_at": "2026-07-10T04:01:16.878Z",
+    "updated_at": "2026-07-15T07:27:35.632Z",
+    "is_active": true,
+    "is_admin": true,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$6W1VSDnqfxirrz6SFJB7CX$XD/WNjs3deo602yccbKLrbpbhnxCKYvdxcz+r1ESVg8=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user",
+    "email": "user@gmail.com",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "created_at": "2026-07-14T10:12:39.523Z",
+    "updated_at": "2026-07-14T10:12:39.524Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 26,
+  "fields": {
+    "name": "Pizza",
+    "slug": "pizza",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.814Z",
+    "updated_at": "2026-07-15T07:27:35.814Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 27,
+  "fields": {
+    "name": "Burgers & Fast Food",
+    "slug": "burgers-fast-food",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.824Z",
+    "updated_at": "2026-07-17T11:07:59.852Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 28,
+  "fields": {
+    "name": "Sushi & Japanese",
+    "slug": "sushi-japanese",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.831Z",
+    "updated_at": "2026-07-15T07:27:35.831Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 29,
+  "fields": {
+    "name": "Italian & Pasta",
+    "slug": "italian-pasta",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.840Z",
+    "updated_at": "2026-07-15T07:27:35.840Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 30,
+  "fields": {
+    "name": "Steaks & Grill",
+    "slug": "steaks-grill",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.847Z",
+    "updated_at": "2026-07-15T07:27:35.847Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 31,
+  "fields": {
+    "name": "Desserts",
+    "slug": "desserts",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.854Z",
+    "updated_at": "2026-07-15T07:27:35.854Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 32,
+  "fields": {
+    "name": "Drinks & Beverages",
+    "slug": "drinks-beverages",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.862Z",
+    "updated_at": "2026-07-15T07:27:35.862Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 33,
+  "fields": {
+    "name": "Mexican & Tacos",
+    "slug": "mexican-tacos",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.868Z",
+    "updated_at": "2026-07-15T07:27:35.868Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 34,
+  "fields": {
+    "name": "Healthy & Salads",
+    "slug": "healthy-salads",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.877Z",
+    "updated_at": "2026-07-15T07:27:35.877Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 26,
+  "fields": {
+    "name": "Bella Italia",
+    "description": "Authentic wood-fired pizzas, fresh handmade pasta, and traditional Italian desserts.",
+    "address": "123 Piazza Grande, Food City",
+    "image": "restaurants/bella_italia.png",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.891Z",
+    "updated_at": "2026-07-15T07:27:35.891Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 27,
+  "fields": {
+    "name": "Sakura Sushi",
+    "description": "Exquisite sushi rolls, fresh sashimi, and comforting ramen bowls made by master chefs.",
+    "address": "456 Sakura Lane, Food City",
+    "image": "restaurants/sakura_sushi.png",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.902Z",
+    "updated_at": "2026-07-15T07:27:35.902Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 28,
+  "fields": {
+    "name": "Burger Craft",
+    "description": "Gourmet, flame-grilled burgers with premium beef patties, hand-cut fries, and craft sodas.",
+    "address": "789 Grill Avenue, Food City",
+    "image": "restaurants/burger_craft.png",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.917Z",
+    "updated_at": "2026-07-15T07:27:35.917Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 29,
+  "fields": {
+    "name": "The Spice Garden",
+    "description": "An aromatic journey through traditional Indian spices, delicious curry, and fresh tandoori bread.",
+    "address": "101 Masala Way, Food City",
+    "image": "restaurants/spice_garden.png",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.928Z",
+    "updated_at": "2026-07-15T07:27:35.928Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 30,
+  "fields": {
+    "name": "Sweet Delights",
+    "description": "Heavenly pastries, custom cakes, macarons, and specialty coffee for your sweet tooth.",
+    "address": "202 Sugar Street, Food City",
+    "image": "restaurants/sweet_delights.png",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.940Z",
+    "updated_at": "2026-07-15T07:27:35.940Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 31,
+  "fields": {
+    "name": "Taco Loco",
+    "description": "Flavor-packed Mexican street food, soft tacos, fresh quesadillas, and house-made salsas.",
+    "address": "303 Fiesta Road, Food City",
+    "image": "restaurants/taco_loco.png",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.952Z",
+    "updated_at": "2026-07-15T07:27:35.952Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 32,
+  "fields": {
+    "name": "Green & Lean",
+    "description": "Nutritious and delicious meals, fresh organic salad bowls, quinoa plates, and active smoothies.",
+    "address": "404 Garden Lane, Food City",
+    "image": "restaurants/green_lean.png",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.961Z",
+    "updated_at": "2026-07-15T07:27:35.961Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 33,
+  "fields": {
+    "name": "Tokyo Noodle Bar",
+    "description": "Authentic Japanese ramen with rich savory broth, handmade noodles, gyoza, and melon soda.",
+    "address": "505 Ninja Street, Food City",
+    "image": "restaurants/tokyo_noodle.png",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.971Z",
+    "updated_at": "2026-07-15T07:27:35.971Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 34,
+  "fields": {
+    "name": "The Grillhouse",
+    "description": "Premium cuts of beef, tender smoked beef ribs, loaded baked potatoes, and classic grill-house atmosphere.",
+    "address": "606 Steakhouse Blvd, Food City",
+    "image": "restaurants/the_grillhouse.png",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.979Z",
+    "updated_at": "2026-07-15T07:27:35.979Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 35,
+  "fields": {
+    "name": "La Parisienne",
+    "description": "Elegant Parisian brunch, croque monsieur, delicious onion soup, cafe au lait, and creme brulee.",
+    "address": "707 Eiffel Avenue, Food City",
+    "image": "restaurants/la_parisienne.png",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.988Z",
+    "updated_at": "2026-07-15T07:27:35.988Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 36,
+  "fields": {
+    "name": "Pizza Busters",
+    "description": "Fast-paced local pizza shop serving massive pepperoni slices, buffalo wings, and classic sodas.",
+    "address": "808 Broadway Lane, Food City",
+    "image": "restaurants/pizza_busters.png",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:35.996Z",
+    "updated_at": "2026-07-15T07:27:35.996Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 37,
+  "fields": {
+    "name": "Corner Cafe",
+    "description": "",
+    "address": "",
+    "image": "restaurants/corner_cafe.png",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.004Z",
+    "updated_at": "2026-07-17T07:29:28.689Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 90,
+  "fields": {
+    "restaurant_id": 26,
+    "category_id": 26,
+    "name": "Margherita Pizza",
+    "description": "Classic tomato sauce, fresh mozzarella, and aromatic basil.",
+    "price": "14.99",
+    "image": "menu_items/margherita_pizza.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.015Z",
+    "updated_at": "2026-07-15T07:27:36.015Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 91,
+  "fields": {
+    "restaurant_id": 26,
+    "category_id": 29,
+    "name": "Fettuccine Alfredo",
+    "description": "Creamy alfredo sauce, parmesan, and grilled chicken over handmade pasta.",
+    "price": "18.50",
+    "image": "menu_items/fettuccine_alfredo.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.025Z",
+    "updated_at": "2026-07-15T07:27:36.025Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 92,
+  "fields": {
+    "restaurant_id": 26,
+    "category_id": 31,
+    "name": "Tiramisu",
+    "description": "Classic espresso-soaked ladyfingers with mascarpone cream and cocoa powder.",
+    "price": "8.99",
+    "image": "menu_items/tiramisu.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.037Z",
+    "updated_at": "2026-07-15T07:27:36.037Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 93,
+  "fields": {
+    "restaurant_id": 26,
+    "category_id": 29,
+    "name": "Garlic Bread",
+    "description": "Toasted baguette with garlic butter, parsley, and mozzarella.",
+    "price": "5.99",
+    "image": "menu_items/garlic_bread.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.045Z",
+    "updated_at": "2026-07-15T07:27:36.045Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 94,
+  "fields": {
+    "restaurant_id": 26,
+    "category_id": 32,
+    "name": "Italian Soda",
+    "description": "Refreshing sparkling water with natural raspberry syrup.",
+    "price": "3.99",
+    "image": "menu_items/italian_soda.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.055Z",
+    "updated_at": "2026-07-15T07:27:36.055Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 95,
+  "fields": {
+    "restaurant_id": 27,
+    "category_id": 28,
+    "name": "Signature Sushi Platter",
+    "description": "Assorted chef's selection of nigiri, maki rolls, and sashimi.",
+    "price": "29.99",
+    "image": "menu_items/sushi_platter.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.064Z",
+    "updated_at": "2026-07-15T07:27:36.064Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 96,
+  "fields": {
+    "restaurant_id": 27,
+    "category_id": 28,
+    "name": "Chicken Ramen",
+    "description": "Rich chicken broth, sliced chicken chashu, soft-boiled egg, nori, and scallions.",
+    "price": "16.99",
+    "image": "menu_items/chicken_ramen.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.074Z",
+    "updated_at": "2026-07-15T07:27:36.074Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 97,
+  "fields": {
+    "restaurant_id": 27,
+    "category_id": 28,
+    "name": "Spicy Tuna Roll",
+    "description": "Tuna, spicy mayo, cucumber, topped with sesame seeds.",
+    "price": "12.50",
+    "image": "menu_items/spicy_tuna_roll.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.082Z",
+    "updated_at": "2026-07-15T07:27:36.082Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 98,
+  "fields": {
+    "restaurant_id": 27,
+    "category_id": 28,
+    "name": "Edamame",
+    "description": "Steamed soybeans sprinkled with coarse sea salt.",
+    "price": "4.99",
+    "image": "menu_items/edamame.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.093Z",
+    "updated_at": "2026-07-15T07:27:36.093Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 99,
+  "fields": {
+    "restaurant_id": 27,
+    "category_id": 32,
+    "name": "Iced Matcha Latte",
+    "description": "Premium Japanese green tea with cold milk.",
+    "price": "5.50",
+    "image": "menu_items/matcha_latte.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.105Z",
+    "updated_at": "2026-07-15T07:27:36.105Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 100,
+  "fields": {
+    "restaurant_id": 28,
+    "category_id": 27,
+    "name": "Classic Double Cheeseburger",
+    "description": "Two smash patties, cheddar cheese, pickles, lettuce, and secret sauce.",
+    "price": "13.99",
+    "image": "menu_items/double_cheeseburger.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.122Z",
+    "updated_at": "2026-07-15T07:27:36.122Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 101,
+  "fields": {
+    "restaurant_id": 28,
+    "category_id": 27,
+    "name": "Crispy Chicken Sandwich",
+    "description": "Buttermilk fried chicken breast, spicy mayo, and pickles on a brioche bun.",
+    "price": "12.99",
+    "image": "menu_items/crispy_chicken.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.134Z",
+    "updated_at": "2026-07-15T07:27:36.134Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 102,
+  "fields": {
+    "restaurant_id": 28,
+    "category_id": 27,
+    "name": "Truffle Fries",
+    "description": "Crispy golden fries tossed in white truffle oil and parmesan.",
+    "price": "6.99",
+    "image": "menu_items/truffle_fries.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.147Z",
+    "updated_at": "2026-07-15T07:27:36.147Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 103,
+  "fields": {
+    "restaurant_id": 28,
+    "category_id": 27,
+    "name": "Onion Rings",
+    "description": "Thick-cut crisp buttermilk battered onion rings served with BBQ sauce.",
+    "price": "5.99",
+    "image": "menu_items/onion_rings.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.159Z",
+    "updated_at": "2026-07-15T07:27:36.159Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 104,
+  "fields": {
+    "restaurant_id": 28,
+    "category_id": 32,
+    "name": "Craft Cola",
+    "description": "Artisanal cane sugar cola served ice cold.",
+    "price": "3.50",
+    "image": "menu_items/craft_cola.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.175Z",
+    "updated_at": "2026-07-15T07:27:36.175Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 105,
+  "fields": {
+    "restaurant_id": 29,
+    "category_id": 30,
+    "name": "Chicken Biryani",
+    "description": "Aromatic basmati rice cooked with tender chicken, exotic spices, and saffron.",
+    "price": "15.99",
+    "image": "menu_items/chicken_biryani.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.188Z",
+    "updated_at": "2026-07-15T07:27:36.188Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 106,
+  "fields": {
+    "restaurant_id": 29,
+    "category_id": 30,
+    "name": "Butter Chicken",
+    "description": "Tender grilled chicken in a creamy, buttery tomato-based gravy.",
+    "price": "16.99",
+    "image": "menu_items/butter_chicken.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.199Z",
+    "updated_at": "2026-07-15T07:27:36.199Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 107,
+  "fields": {
+    "restaurant_id": 29,
+    "category_id": 30,
+    "name": "Garlic Naan",
+    "description": "Soft tandoori flatbread brushed with garlic butter.",
+    "price": "3.50",
+    "image": "menu_items/garlic_naan.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.212Z",
+    "updated_at": "2026-07-15T07:27:36.212Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 108,
+  "fields": {
+    "restaurant_id": 29,
+    "category_id": 32,
+    "name": "Mango Lassi",
+    "description": "Traditional yogurt-based drink blended with sweet mango pulp.",
+    "price": "4.99",
+    "image": "menu_items/mango_lassi.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.226Z",
+    "updated_at": "2026-07-15T07:27:36.226Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 109,
+  "fields": {
+    "restaurant_id": 29,
+    "category_id": 27,
+    "name": "Vegetable Samosa",
+    "description": "Crisp pastries filled with spiced potatoes and peas.",
+    "price": "5.99",
+    "image": "menu_items/veg_samosa.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.242Z",
+    "updated_at": "2026-07-15T07:27:36.242Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 110,
+  "fields": {
+    "restaurant_id": 30,
+    "category_id": 31,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a molten liquid center, served with vanilla ice cream.",
+    "price": "9.99",
+    "image": "menu_items/lava_cake.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.257Z",
+    "updated_at": "2026-07-15T07:27:36.257Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 111,
+  "fields": {
+    "restaurant_id": 30,
+    "category_id": 31,
+    "name": "Strawberry Cheesecake",
+    "description": "New York style cheesecake topped with fresh strawberry compote.",
+    "price": "8.50",
+    "image": "menu_items/strawberry_cheesecake.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.268Z",
+    "updated_at": "2026-07-15T07:27:36.268Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 112,
+  "fields": {
+    "restaurant_id": 30,
+    "category_id": 31,
+    "name": "Macaron Box",
+    "description": "Assorted box of 6 delicate French macarons.",
+    "price": "12.00",
+    "image": "menu_items/macaron_box.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.281Z",
+    "updated_at": "2026-07-15T07:27:36.281Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 113,
+  "fields": {
+    "restaurant_id": 30,
+    "category_id": 32,
+    "name": "Caramel Macchiato",
+    "description": "Freshly brewed espresso with steamed milk and vanilla, drizzled with caramel.",
+    "price": "5.20",
+    "image": "menu_items/caramel_macchiato.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.292Z",
+    "updated_at": "2026-07-15T07:27:36.292Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 114,
+  "fields": {
+    "restaurant_id": 30,
+    "category_id": 31,
+    "name": "Chocolate Croissant",
+    "description": "Flaky buttery pastry filled with dark chocolate bars.",
+    "price": "4.50",
+    "image": "menu_items/chocolate_croissant.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.302Z",
+    "updated_at": "2026-07-15T07:27:36.302Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 115,
+  "fields": {
+    "restaurant_id": 31,
+    "category_id": 33,
+    "name": "Beef Birria Tacos",
+    "description": "Three corn tortillas stuffed with slow-cooked shredded beef, cheese, onions, cilantro and consommé.",
+    "price": "13.99",
+    "image": "menu_items/birria_tacos.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.317Z",
+    "updated_at": "2026-07-15T07:27:36.317Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 116,
+  "fields": {
+    "restaurant_id": 31,
+    "category_id": 33,
+    "name": "Chicken Quesadilla",
+    "description": "Large flour tortilla with melted cheese and seasoned grilled chicken, served with sour cream.",
+    "price": "11.50",
+    "image": "menu_items/quesadilla.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.332Z",
+    "updated_at": "2026-07-15T07:27:36.332Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 117,
+  "fields": {
+    "restaurant_id": 31,
+    "category_id": 33,
+    "name": "Chips & Guacamole",
+    "description": "Freshly fried tortilla chips served with home-made fresh guacamole.",
+    "price": "6.99",
+    "image": "menu_items/chips_guac.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.345Z",
+    "updated_at": "2026-07-15T07:27:36.345Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 118,
+  "fields": {
+    "restaurant_id": 31,
+    "category_id": 31,
+    "name": "Churros with Cajeta",
+    "description": "Crispy fried dough pastry dusted with cinnamon sugar, served with caramel dip.",
+    "price": "7.99",
+    "image": "menu_items/churros.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.358Z",
+    "updated_at": "2026-07-15T07:27:36.359Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 119,
+  "fields": {
+    "restaurant_id": 31,
+    "category_id": 32,
+    "name": "Horchata",
+    "description": "Traditional Mexican milky rice beverage flavored with cinnamon and sugar.",
+    "price": "4.00",
+    "image": "menu_items/horchata.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.370Z",
+    "updated_at": "2026-07-15T07:27:36.370Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 120,
+  "fields": {
+    "restaurant_id": 32,
+    "category_id": 34,
+    "name": "Chicken Caesar Salad",
+    "description": "Crisp romaine lettuce, grilled chicken breast, parmesan, croutons, and Caesar dressing.",
+    "price": "12.99",
+    "image": "menu_items/caesar_salad.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.382Z",
+    "updated_at": "2026-07-15T07:27:36.383Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 121,
+  "fields": {
+    "restaurant_id": 32,
+    "category_id": 34,
+    "name": "Avocado Quinoa Bowl",
+    "description": "Quinoa mixed with fresh diced avocado, cucumber, cherry tomatoes, and lemon-tahini dressing.",
+    "price": "13.50",
+    "image": "menu_items/quinoa_bowl.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.395Z",
+    "updated_at": "2026-07-15T07:27:36.395Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 122,
+  "fields": {
+    "restaurant_id": 32,
+    "category_id": 32,
+    "name": "Acai Berry Smoothie",
+    "description": "Blended organic acai berries, strawberries, banana, and coconut milk.",
+    "price": "7.99",
+    "image": "menu_items/acai_smoothie.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.408Z",
+    "updated_at": "2026-07-15T07:27:36.408Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 123,
+  "fields": {
+    "restaurant_id": 32,
+    "category_id": 34,
+    "name": "Hummus with Pita",
+    "description": "Creamy chickpea hummus served with warm whole-wheat pita bread.",
+    "price": "6.50",
+    "image": "menu_items/hummus_pita.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.421Z",
+    "updated_at": "2026-07-15T07:27:36.422Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 124,
+  "fields": {
+    "restaurant_id": 32,
+    "category_id": 32,
+    "name": "Ginger Lemon Kombucha",
+    "description": "Artisanal fermented probiotic tea with organic ginger and fresh lemon.",
+    "price": "4.90",
+    "image": "menu_items/kombucha.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.433Z",
+    "updated_at": "2026-07-15T07:27:36.433Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 125,
+  "fields": {
+    "restaurant_id": 33,
+    "category_id": 28,
+    "name": "Shoyu Ramen",
+    "description": "Classic soy sauce broth with ramen noodles, grilled chicken chashu, bamboo shoots, and nori.",
+    "price": "15.99",
+    "image": "menu_items/shoyu_ramen.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.444Z",
+    "updated_at": "2026-07-15T07:27:36.444Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 126,
+  "fields": {
+    "restaurant_id": 33,
+    "category_id": 28,
+    "name": "Spicy Miso Ramen",
+    "description": "Rich miso broth infused with chili oil, ground chicken, bean sprouts, and soft egg.",
+    "price": "16.50",
+    "image": "menu_items/miso_ramen.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.454Z",
+    "updated_at": "2026-07-15T07:27:36.454Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 127,
+  "fields": {
+    "restaurant_id": 33,
+    "category_id": 28,
+    "name": "Chicken Gyoza",
+    "description": "Five pan-seared chicken dumplings served with savory dipping sauce.",
+    "price": "7.99",
+    "image": "menu_items/chicken_gyoza.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.464Z",
+    "updated_at": "2026-07-15T07:27:36.464Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 128,
+  "fields": {
+    "restaurant_id": 33,
+    "category_id": 28,
+    "name": "Takoyaki",
+    "description": "Fried octopus balls drizzled with Japanese mayo, takoyaki sauce, and bonito flakes.",
+    "price": "8.99",
+    "image": "menu_items/takoyaki.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.473Z",
+    "updated_at": "2026-07-15T07:27:36.473Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 129,
+  "fields": {
+    "restaurant_id": 33,
+    "category_id": 32,
+    "name": "Japanese Melon Soda",
+    "description": "Bright green sweet soda served with a scoop of vanilla ice cream.",
+    "price": "4.50",
+    "image": "menu_items/melon_soda.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.482Z",
+    "updated_at": "2026-07-15T07:27:36.482Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 130,
+  "fields": {
+    "restaurant_id": 34,
+    "category_id": 30,
+    "name": "Ribeye Steak",
+    "description": "12oz USDA Choice Ribeye steak grilled to perfection, served with garlic herb butter.",
+    "price": "34.99",
+    "image": "menu_items/ribeye_steak.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.491Z",
+    "updated_at": "2026-07-15T07:27:36.491Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 131,
+  "fields": {
+    "restaurant_id": 34,
+    "category_id": 30,
+    "name": "BBQ Beef Ribs",
+    "description": "Half-rack of baby back beef ribs, slow-smoked and glazed with sweet house BBQ sauce.",
+    "price": "26.99",
+    "image": "menu_items/beef_ribs.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.499Z",
+    "updated_at": "2026-07-15T07:27:36.499Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 132,
+  "fields": {
+    "restaurant_id": 34,
+    "category_id": 30,
+    "name": "Loaded Baked Potato",
+    "description": "Large baked russet potato stuffed with sour cream, beef bacon bits, cheddar, and chives.",
+    "price": "6.99",
+    "image": "menu_items/baked_potato.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.510Z",
+    "updated_at": "2026-07-15T07:27:36.510Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 133,
+  "fields": {
+    "restaurant_id": 34,
+    "category_id": 30,
+    "name": "Grilled Asparagus",
+    "description": "Fresh asparagus spears lightly seasoned with olive oil, salt, pepper, and lemon juice.",
+    "price": "5.99",
+    "image": "menu_items/grilled_asparagus.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.521Z",
+    "updated_at": "2026-07-15T07:27:36.521Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 134,
+  "fields": {
+    "restaurant_id": 34,
+    "category_id": 32,
+    "name": "Old Fashioned Mocktail",
+    "description": "Spiced oak extract, orange bitters, sugar, and cherry garnish over a large ice cube.",
+    "price": "6.50",
+    "image": "menu_items/old_fashioned.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.534Z",
+    "updated_at": "2026-07-15T07:27:36.534Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 135,
+  "fields": {
+    "restaurant_id": 35,
+    "category_id": 29,
+    "name": "Eggs Benedict",
+    "description": "Two poached eggs on English muffins with beef bacon and rich hollandaise sauce.",
+    "price": "14.99",
+    "image": "menu_items/eggs_benedict.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.545Z",
+    "updated_at": "2026-07-15T07:27:36.545Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 136,
+  "fields": {
+    "restaurant_id": 35,
+    "category_id": 27,
+    "name": "Croque Monsieur",
+    "description": "Classic French hot sandwich with sliced turkey, gruyere cheese, and creamy bechamel.",
+    "price": "13.50",
+    "image": "menu_items/croque_monsieur.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.559Z",
+    "updated_at": "2026-07-15T07:27:36.559Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 137,
+  "fields": {
+    "restaurant_id": 35,
+    "category_id": 29,
+    "name": "French Onion Soup",
+    "description": "Rich beef broth with caramelized onions, topped with toasted bread and melted Gruyere.",
+    "price": "9.99",
+    "image": "menu_items/onion_soup.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.568Z",
+    "updated_at": "2026-07-15T07:27:36.568Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 138,
+  "fields": {
+    "restaurant_id": 35,
+    "category_id": 31,
+    "name": "Creme Brulee",
+    "description": "Rich custard base topped with a texturizing layer of hardened caramelized sugar.",
+    "price": "8.99",
+    "image": "menu_items/creme_brulee.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.578Z",
+    "updated_at": "2026-07-15T07:27:36.578Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 139,
+  "fields": {
+    "restaurant_id": 35,
+    "category_id": 32,
+    "name": "Cafe au Lait",
+    "description": "Freshly brewed strong coffee combined with steamed whole milk.",
+    "price": "4.50",
+    "image": "menu_items/cafe_au_lait.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.590Z",
+    "updated_at": "2026-07-15T07:27:36.590Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 140,
+  "fields": {
+    "restaurant_id": 36,
+    "category_id": 26,
+    "name": "Pepperoni Pizza",
+    "description": "Gigantic 16-inch pizza loaded with double beef pepperoni and mozzarella cheese.",
+    "price": "15.99",
+    "image": "menu_items/pepperoni_pizza.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.602Z",
+    "updated_at": "2026-07-15T07:27:36.602Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 141,
+  "fields": {
+    "restaurant_id": 36,
+    "category_id": 26,
+    "name": "BBQ Chicken Pizza",
+    "description": "Smoky BBQ sauce base, grilled chicken breast strips, red onion, and cilantro.",
+    "price": "17.99",
+    "image": "menu_items/bbq_chicken_pizza.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.613Z",
+    "updated_at": "2026-07-15T07:27:36.613Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 142,
+  "fields": {
+    "restaurant_id": 36,
+    "category_id": 27,
+    "name": "Mozzarella Sticks",
+    "description": "Six golden-fried mozzarella cheese sticks served with marinara dipping sauce.",
+    "price": "7.99",
+    "image": "menu_items/mozzarella_sticks.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.626Z",
+    "updated_at": "2026-07-15T07:27:36.626Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 143,
+  "fields": {
+    "restaurant_id": 36,
+    "category_id": 27,
+    "name": "Buffalo Wings",
+    "description": "Eight crispy chicken wings tossed in spicy buffalo sauce, with blue cheese dip.",
+    "price": "10.99",
+    "image": "menu_items/buffalo_wings.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.637Z",
+    "updated_at": "2026-07-15T07:27:36.638Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 144,
+  "fields": {
+    "restaurant_id": 36,
+    "category_id": 32,
+    "name": "Fountain Soda",
+    "description": "Choice of carbonated soft drink served ice cold.",
+    "price": "2.50",
+    "image": "menu_items/fountain_soda.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.649Z",
+    "updated_at": "2026-07-15T07:27:36.649Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 145,
+  "fields": {
+    "restaurant_id": 37,
+    "category_id": 34,
+    "name": "Avocado Toast",
+    "description": "Freshly mashed avocado on toasted sourdough bread, topped with cherry tomatoes and microgreens.",
+    "price": "9.99",
+    "image": "menu_items/avocado_toast.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.664Z",
+    "updated_at": "2026-07-15T07:27:36.664Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 146,
+  "fields": {
+    "restaurant_id": 37,
+    "category_id": 27,
+    "name": "Turkey Club Sandwich",
+    "description": "Triple-decker sandwich with sliced turkey, beef bacon, lettuce, tomato, and mayo.",
+    "price": "11.99",
+    "image": "menu_items/turkey_club.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.678Z",
+    "updated_at": "2026-07-15T07:27:36.678Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 147,
+  "fields": {
+    "restaurant_id": 37,
+    "category_id": 31,
+    "name": "Blueberry Muffin",
+    "description": "Freshly baked moist muffin packed with wild blueberries, finished with crumble top.",
+    "price": "3.99",
+    "image": "menu_items/blueberry_muffin.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.690Z",
+    "updated_at": "2026-07-15T07:27:36.690Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 148,
+  "fields": {
+    "restaurant_id": 37,
+    "category_id": 32,
+    "name": "Cold Brew Coffee",
+    "description": "Coarsely ground coffee beans steeped in cold water for 12 hours, smooth and bold.",
+    "price": "4.50",
+    "image": "menu_items/cold_brew.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.698Z",
+    "updated_at": "2026-07-15T07:27:36.698Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 28,
+  "fields": {
+    "restaurant_id": 26,
+    "name": "Italian Feast Deal",
+    "description": "Large Margherita Pizza, 1 Garlic Bread, and 2 Italian Sodas.",
+    "combo_price": "26.99",
+    "image": "deals/deal_bella_italia.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.716Z",
+    "updated_at": "2026-07-15T07:27:36.716Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 29,
+  "fields": {
+    "restaurant_id": 27,
+    "name": "Sushi Lovers Combo",
+    "description": "1 Signature Sushi Platter, 1 Spicy Tuna Roll, and 2 Matcha Lattes.",
+    "combo_price": "42.99",
+    "image": "deals/deal_sakura.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.755Z",
+    "updated_at": "2026-07-15T07:27:36.756Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 30,
+  "fields": {
+    "restaurant_id": 28,
+    "name": "Double Craft Meal",
+    "description": "2 Classic Double Cheeseburgers, 2 Truffle Fries, and 2 Craft Colas.",
+    "combo_price": "34.99",
+    "image": "deals/deal_burger_craft.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.793Z",
+    "updated_at": "2026-07-15T07:27:36.793Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 31,
+  "fields": {
+    "restaurant_id": 29,
+    "name": "Indian Tandoori Dinner",
+    "description": "1 Butter Chicken, 1 Chicken Biryani, 2 Garlic Naans, and 2 Mango Lassis.",
+    "combo_price": "32.99",
+    "image": "deals/deal_spice_garden.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.827Z",
+    "updated_at": "2026-07-15T07:27:36.827Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 32,
+  "fields": {
+    "restaurant_id": 30,
+    "name": "Afternoon Tea for Two",
+    "description": "1 Macaron Box, 2 Chocolate Croissants, and 2 Caramel Macchiatos.",
+    "combo_price": "19.99",
+    "image": "deals/deal_sweet_delights.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.869Z",
+    "updated_at": "2026-07-15T07:27:36.870Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 33,
+  "fields": {
+    "restaurant_id": 31,
+    "name": "Taco Fiesta Pack",
+    "description": "2 Beef Birria Tacos, 1 Chips & Guacamole, and 2 Horchatas.",
+    "combo_price": "28.99",
+    "image": "deals/deal_taco_loco.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.910Z",
+    "updated_at": "2026-07-15T07:27:36.910Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 34,
+  "fields": {
+    "restaurant_id": 32,
+    "name": "Wellness Lunch Combo",
+    "description": "1 Avocado Quinoa Bowl, 1 Hummus with Pita, and 1 Ginger Lemon Kombucha.",
+    "combo_price": "22.99",
+    "image": "deals/deal_green_lean.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.950Z",
+    "updated_at": "2026-07-15T07:27:36.950Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 35,
+  "fields": {
+    "restaurant_id": 33,
+    "name": "Ramen Party Pack",
+    "description": "1 Shoyu Ramen, 1 Spicy Miso Ramen, 1 Chicken Gyoza, and 1 Takoyaki.",
+    "combo_price": "38.99",
+    "image": "deals/deal_tokyo_noodle.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:36.984Z",
+    "updated_at": "2026-07-15T07:27:36.984Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 36,
+  "fields": {
+    "restaurant_id": 34,
+    "name": "Premium Ribeye Dinner",
+    "description": "2 Ribeye Steaks, 2 Loaded Baked Potatoes, and 2 Grilled Asparagus.",
+    "combo_price": "65.99",
+    "image": "deals/deal_grillhouse.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:37.035Z",
+    "updated_at": "2026-07-15T07:27:37.035Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 37,
+  "fields": {
+    "restaurant_id": 35,
+    "name": "French Bistro Brunch",
+    "description": "1 Eggs Benedict, 1 Croque Monsieur, 1 Creme Brulee, and 2 Cafe au Lait.",
+    "combo_price": "34.99",
+    "image": "deals/deal_la_parisienne.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:37.075Z",
+    "updated_at": "2026-07-15T07:27:37.075Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 38,
+  "fields": {
+    "restaurant_id": 36,
+    "name": "Game Night Special",
+    "description": "1 Pepperoni Pizza, 1 BBQ Chicken Pizza, 1 Buffalo Wings, and 4 Fountain Sodas.",
+    "combo_price": "39.99",
+    "image": "deals/deal_pizza_busters.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:37.112Z",
+    "updated_at": "2026-07-15T07:27:37.112Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 39,
+  "fields": {
+    "restaurant_id": 37,
+    "name": "Café Morning Start",
+    "description": "1 Avocado Toast, 1 Blueberry Muffin, and 1 Cold Brew Coffee.",
+    "combo_price": "15.99",
+    "image": "deals/deal_corner_cafe.png",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-15T07:27:37.144Z",
+    "updated_at": "2026-07-15T07:27:37.145Z"
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 63,
+  "fields": {
+    "deal_id": 28,
+    "menu_item_id": 90,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 64,
+  "fields": {
+    "deal_id": 28,
+    "menu_item_id": 93,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 65,
+  "fields": {
+    "deal_id": 28,
+    "menu_item_id": 94,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 66,
+  "fields": {
+    "deal_id": 29,
+    "menu_item_id": 95,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 67,
+  "fields": {
+    "deal_id": 29,
+    "menu_item_id": 97,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 68,
+  "fields": {
+    "deal_id": 29,
+    "menu_item_id": 99,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 69,
+  "fields": {
+    "deal_id": 30,
+    "menu_item_id": 100,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 70,
+  "fields": {
+    "deal_id": 30,
+    "menu_item_id": 102,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 71,
+  "fields": {
+    "deal_id": 30,
+    "menu_item_id": 104,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 72,
+  "fields": {
+    "deal_id": 31,
+    "menu_item_id": 106,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 73,
+  "fields": {
+    "deal_id": 31,
+    "menu_item_id": 105,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 74,
+  "fields": {
+    "deal_id": 31,
+    "menu_item_id": 107,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 75,
+  "fields": {
+    "deal_id": 31,
+    "menu_item_id": 108,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 76,
+  "fields": {
+    "deal_id": 32,
+    "menu_item_id": 112,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 77,
+  "fields": {
+    "deal_id": 32,
+    "menu_item_id": 114,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 78,
+  "fields": {
+    "deal_id": 32,
+    "menu_item_id": 113,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 79,
+  "fields": {
+    "deal_id": 33,
+    "menu_item_id": 115,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 80,
+  "fields": {
+    "deal_id": 33,
+    "menu_item_id": 117,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 81,
+  "fields": {
+    "deal_id": 33,
+    "menu_item_id": 119,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 82,
+  "fields": {
+    "deal_id": 34,
+    "menu_item_id": 121,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 83,
+  "fields": {
+    "deal_id": 34,
+    "menu_item_id": 123,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 84,
+  "fields": {
+    "deal_id": 34,
+    "menu_item_id": 124,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 85,
+  "fields": {
+    "deal_id": 35,
+    "menu_item_id": 125,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 86,
+  "fields": {
+    "deal_id": 35,
+    "menu_item_id": 126,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 87,
+  "fields": {
+    "deal_id": 35,
+    "menu_item_id": 127,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 88,
+  "fields": {
+    "deal_id": 35,
+    "menu_item_id": 128,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 89,
+  "fields": {
+    "deal_id": 36,
+    "menu_item_id": 130,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 90,
+  "fields": {
+    "deal_id": 36,
+    "menu_item_id": 132,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 91,
+  "fields": {
+    "deal_id": 36,
+    "menu_item_id": 133,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 92,
+  "fields": {
+    "deal_id": 37,
+    "menu_item_id": 135,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 93,
+  "fields": {
+    "deal_id": 37,
+    "menu_item_id": 136,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 94,
+  "fields": {
+    "deal_id": 37,
+    "menu_item_id": 138,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 95,
+  "fields": {
+    "deal_id": 37,
+    "menu_item_id": 139,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 96,
+  "fields": {
+    "deal_id": 38,
+    "menu_item_id": 140,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 97,
+  "fields": {
+    "deal_id": 38,
+    "menu_item_id": 141,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 98,
+  "fields": {
+    "deal_id": 38,
+    "menu_item_id": 143,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 99,
+  "fields": {
+    "deal_id": 38,
+    "menu_item_id": 144,
+    "quantity": 4
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 100,
+  "fields": {
+    "deal_id": 39,
+    "menu_item_id": 145,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 101,
+  "fields": {
+    "deal_id": 39,
+    "menu_item_id": 147,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 102,
+  "fields": {
+    "deal_id": 39,
+    "menu_item_id": 148,
+    "quantity": 1
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "total_amount": "15.99",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "4111 2222 3333 4444",
+    "created_at": "2026-07-16T06:00:42.748Z",
+    "updated_at": "2026-07-16T06:00:42.748Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 14,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "total_amount": "28.99",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "4111 2222 3333 4444",
+    "created_at": "2026-07-16T11:37:54.589Z",
+    "updated_at": "2026-07-16T11:37:54.589Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 15,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "total_amount": "39.99",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "4111 2222 3333 4444",
+    "created_at": "2026-07-16T11:44:18.450Z",
+    "updated_at": "2026-07-16T11:44:18.450Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 16,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "total_amount": "38.99",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "4111 2222 3333 4444",
+    "created_at": "2026-07-16T11:44:59.627Z",
+    "updated_at": "2026-07-16T11:44:59.627Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 17,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "total_amount": "15.96",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "4111 2222 3333 4444",
+    "created_at": "2026-07-17T04:42:00.539Z",
+    "updated_at": "2026-07-17T04:42:00.539Z"
+  }
+},
+{
+  "model": "order.cart",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "updated_at": "2026-07-16T05:52:44.384Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 19,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 37,
+    "payment": 13,
+    "total_price": "15.99",
+    "current_status": "cancelled",
+    "delivery_address": "123 Regent Street, Apt 4B, London, W1B 5AH",
+    "created_at": "2026-07-16T06:00:42.730Z",
+    "updated_at": "2026-07-16T11:31:53.403Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 20,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 31,
+    "payment": 14,
+    "total_price": "28.99",
+    "current_status": "delivered",
+    "delivery_address": "123 Regent Street, Apt 4B, London, W1B 5AH",
+    "created_at": "2026-07-16T11:37:54.578Z",
+    "updated_at": "2026-07-16T11:38:35.739Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 21,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 36,
+    "payment": 15,
+    "total_price": "39.99",
+    "current_status": "cancelled",
+    "delivery_address": "123 Regent Street, Apt 4B, London, W1B 5AH",
+    "created_at": "2026-07-16T11:44:18.443Z",
+    "updated_at": "2026-07-16T11:53:10.247Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 22,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 33,
+    "payment": 16,
+    "total_price": "38.99",
+    "current_status": "delivered",
+    "delivery_address": "123 Regent Street, Apt 4B, London, W1B 5AH",
+    "created_at": "2026-07-16T11:44:59.619Z",
+    "updated_at": "2026-07-16T11:53:21.663Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 23,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 37,
+    "payment": 17,
+    "total_price": "15.96",
+    "current_status": "delivered",
+    "delivery_address": "123 Regent Street, Apt 4B, London, W1B 5AH",
+    "created_at": "2026-07-17T04:42:00.530Z",
+    "updated_at": "2026-07-17T04:42:28.535Z"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 23,
+  "fields": {
+    "order": 19,
+    "menu_item": null,
+    "deal": 39,
+    "quantity": 1,
+    "price_at_order": "15.99"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 24,
+  "fields": {
+    "order": 20,
+    "menu_item": null,
+    "deal": 33,
+    "quantity": 1,
+    "price_at_order": "28.99"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 25,
+  "fields": {
+    "order": 21,
+    "menu_item": null,
+    "deal": 38,
+    "quantity": 1,
+    "price_at_order": "39.99"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 26,
+  "fields": {
+    "order": 22,
+    "menu_item": null,
+    "deal": 35,
+    "quantity": 1,
+    "price_at_order": "38.99"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 27,
+  "fields": {
+    "order": 23,
+    "menu_item": 147,
+    "deal": null,
+    "quantity": 4,
+    "price_at_order": "3.99"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 25,
+  "fields": {
+    "order": 19,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T06:00:42.741Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 26,
+  "fields": {
+    "order": 19,
+    "status": "accepted",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:31:47.899Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 27,
+  "fields": {
+    "order": 19,
+    "status": "cancelled",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:31:53.409Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 28,
+  "fields": {
+    "order": 20,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:37:54.582Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 29,
+  "fields": {
+    "order": 20,
+    "status": "accepted",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:38:07.023Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 30,
+  "fields": {
+    "order": 20,
+    "status": "preparing",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:38:19.717Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 31,
+  "fields": {
+    "order": 20,
+    "status": "out_for_delivery",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:38:26.326Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 32,
+  "fields": {
+    "order": 20,
+    "status": "delivered",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:38:35.751Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 33,
+  "fields": {
+    "order": 21,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:44:18.445Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 34,
+  "fields": {
+    "order": 21,
+    "status": "accepted",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:44:29.013Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 35,
+  "fields": {
+    "order": 22,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:44:59.621Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 36,
+  "fields": {
+    "order": 21,
+    "status": "cancelled",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:53:10.253Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 37,
+  "fields": {
+    "order": 22,
+    "status": "accepted",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:53:20.352Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 38,
+  "fields": {
+    "order": 22,
+    "status": "preparing",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:53:20.816Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 39,
+  "fields": {
+    "order": 22,
+    "status": "out_for_delivery",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:53:21.153Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 40,
+  "fields": {
+    "order": 22,
+    "status": "delivered",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-16T11:53:21.673Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 41,
+  "fields": {
+    "order": 23,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-17T04:42:00.533Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 42,
+  "fields": {
+    "order": 23,
+    "status": "accepted",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-17T04:42:27.584Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 43,
+  "fields": {
+    "order": 23,
+    "status": "preparing",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-17T04:42:27.995Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 44,
+  "fields": {
+    "order": 23,
+    "status": "out_for_delivery",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-17T04:42:28.276Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 45,
+  "fields": {
+    "order": 23,
+    "status": "delivered",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-17T04:42:28.541Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-07-01T04:49:49.532Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "1",
+    "object_repr": "admin@example.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-07-01T04:49:49.532Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "adminfood@example.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-07-01T04:49:49.532Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "khan@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-07-01T05:27:38.243Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "5",
+    "object_repr": "test@example.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-07-01T05:27:38.243Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "6",
+    "object_repr": "test@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-07-01T11:35:25.465Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Beef Steak (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-07-01T11:37:13.259Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "7",
+    "object_repr": "Soups",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-07-01T11:37:34.583Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Beef Steak (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-07-01T11:38:11.413Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "2",
+    "object_repr": "Beef Soup (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-07-01T11:44:00.777Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "3",
+    "object_repr": "Creamy Steak and Potato soup (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-07-02T06:31:33.967Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "1",
+    "object_repr": "Spice Garden (All In one)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-07-02T06:32:02.124Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "1",
+    "object_repr": "1 x Creamy Steak and Potato soup in All In one",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-07-02T06:32:14.094Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "1",
+    "object_repr": "1 x Creamy Steak and Potato soup in All In one",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-07-02T06:32:25.888Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "2",
+    "object_repr": "1 x Burger Junction and Switzz in All In one",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-07-02T07:44:14.473Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "5",
+    "object_repr": "5 x Creamy Steak and Potato soup in the soup deal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-07-02T10:59:34.819Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "7",
+    "object_repr": "1 x Cheese Pizza in pizza",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-07-02T10:59:46.314Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "7",
+    "object_repr": "1 x Cheese Pizza in pizza",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-07-02T11:04:34.050Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World (the soup deal)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-07-02T11:11:23.864Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "5",
+    "object_repr": "Steak pizza (Italian Delights)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-07-02T11:11:37.777Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "10",
+    "object_repr": "2 x Steak pizza in pizza combo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-07-03T10:42:42.517Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "3",
+    "object_repr": "Payment 3 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Payment status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-07-03T10:42:47.580Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "2",
+    "object_repr": "Payment 2 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Payment status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-07-03T10:42:56.924Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "1",
+    "object_repr": "Payment 1 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Payment status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-07-10T05:15:38.959Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "1",
+    "object_repr": "Spice Garden",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-07-13T06:46:23.893Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "5",
+    "object_repr": "ABC",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-07-13T06:48:41.603Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "6",
+    "object_repr": "The Coastal Table",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-07-13T06:49:32.616Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "7",
+    "object_repr": "Spice Route",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-07-13T06:50:09.897Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "8",
+    "object_repr": "Bella Italia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-07-13T06:50:52.465Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "4",
+    "object_repr": "Cheese Pizza (Italian Delights)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-07-13T06:51:22.869Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "5",
+    "object_repr": "Steak pizza (Italian Delights)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-07-13T06:52:03.637Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Beef Steak (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-07-13T06:54:56.173Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "6",
+    "object_repr": "Tiramisu (Bella Italia)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-07-13T06:58:11.961Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "10",
+    "object_repr": "Bella Italia (Steak Deal)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-07-13T07:03:40.817Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "9",
+    "object_repr": "Drinks",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-07-13T07:05:29.241Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "11",
+    "object_repr": "Italian Delights (Burger Family Combo)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-07-13T07:06:08.068Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "12",
+    "object_repr": "Spice Garden (Pizza Night Deal)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-07-13T07:07:04.762Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "11",
+    "object_repr": "1 x Cheese Pizza in Pizza Night Deal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-07-13T07:07:23.663Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "12",
+    "object_repr": "1 x Cheese Pizza in Burger Family Combo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-07-13T07:07:33.062Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "11",
+    "object_repr": "1 x Creamy Steak and Potato soup in Pizza Night Deal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Menu item id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-07-13T07:07:56.013Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "13",
+    "object_repr": "1 x Tiramisu in Steak Deal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-07-13T07:08:18.679Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "5",
+    "object_repr": "Payment 5 - success",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-07-13T07:08:38.037Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cart"
+    ],
+    "object_id": "2",
+    "object_repr": "Cart of khan@gmail.com",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-07-13T07:08:55.215Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "14",
+    "object_repr": "1 X Steak pizza",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-07-13T07:09:43.669Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "15",
+    "object_repr": "2 X Tiramisu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-07-13T07:10:09.859Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "16",
+    "object_repr": "1 X Beef Steak",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+}
+]
